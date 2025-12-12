@@ -1,2 +1,2 @@
-### Thingking Machine (depsekr)
-Thingking-Machine (depsekr)
+### Thingking Machine (depsekr through proxy)
+Thingking-Machine (depsekrp)
