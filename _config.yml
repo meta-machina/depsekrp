@@ -24,8 +24,8 @@ app:
   worker_name: depsekapi.js
 
 lm:
-  model: deepseek-reasoner
-  max_tokens: 65536
+  model: deepseek-v4-pro
+  max_tokens: 393200
 
 github_settings:
   owner: thingking-machine
